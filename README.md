@@ -1,5 +1,5 @@
 # ①読書記録（更新、削除追加版）
-![Game Image](./img/phpkadai02.png)
+![Game Image](./img/phpkadai04.png)
 ## ②説明
 - 読書記録です。更新削除ができるようになりました。
 
@@ -20,4 +20,4 @@
 ## ⑦フリー項目（感想、シェアしたいこと等なんでも）
 - プレイイメージです
 
-https://github.com/user-attachments/assets/XXXXX
+https://github.com/user-attachments/assets/4b5fa4ff-45dd-455b-bae5-c6bf71ea9fca
