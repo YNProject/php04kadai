@@ -1,6 +1,6 @@
 # ①読書記録（更新、削除追加版）
 
-- 権限によって　更新、削除を出し分けしました。
+- 権限によって　編集、削除を出し分けしました。
 ![Game Image](./img/phpkadai04.png)
 
 ## ②説明
@@ -10,11 +10,11 @@
 ログイン：　https://yugames.sakura.ne.jp/php04kadai/login.php<br>
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
-管理者(更新、削除あり)
+管理者(編集、削除あり)
 - ID: test1
 - PASS: test1
 
-一般(更新、削除なし)
+一般(編集、削除なし)
 - ID: test2
 - PASS: test2
 
