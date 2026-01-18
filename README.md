@@ -1,21 +1,26 @@
 # ①読書記録（更新、削除追加版）
 ![Game Image](./img/phpkadai04.png)
 ## ②説明
-- 読書記録です。更新削除ができるようになりました。
+- 読書記録です。ログインを追加しました。
 
 ## ③アプリのデプロイURL
-インプット：　https://yugames.sakura.ne.jp/php03kadai/index.php<br>
-一覧確認画面：https://yugames.sakura.ne.jp/php03kadai/select.php
+ログイン：　https://yugames.sakura.ne.jp/php04kadai/login.php<br>
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
-- ID: 今回無し
-- PASS: 今回無し
+管理者(更新、削除あり)
+- ID: test1
+- PASS: test1
+
+一般(更新、削除なし)
+- ID: test2
+- PASS: test2
 
 ## ⑤工夫した点・こだわった点
-- 画像参照、configファイルの扱いに気をつけました（configファイルをgitignoreでgithubに上げない、wwwと違う階層におく）
+- configファイルの扱いに気をつけました（configファイルをgitignoreでgithubに上げない、wwwと違う階層におく）
+- 管理者かどうかで更新、削除ができる権限を分けました
 
 ## ⑥難しかった点・次回トライしたいこと（又は機能）
-- ファイルの数が増えたり、フォルダわけが増えたりするとミスが増えてしまいます。
+- 参照する階層を書くのが難しい。ファイルの数が増えたり、フォルダわけが増えたりするとミスが増えてしまいます。
 
 ## ⑦フリー項目（感想、シェアしたいこと等なんでも）
 - プレイイメージです
